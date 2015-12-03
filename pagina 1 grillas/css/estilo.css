@@ -1,0 +1,114 @@
+/**{outline: 1px solid green;}*/
+
+h3{
+	margin: 15px;
+}
+h6{
+	color: rgb(107, 107, 107);
+}
+
+a{
+	text-decoration: none;
+}
+img{
+	border:solid rgb(190, 200, 190) 1px;
+	padding: 2px;
+}
+nav.col-12 {
+	background: rgb(39,39,39);
+	padding-top: 5px; padding-bottom: 7px;"
+}
+section{
+	margin-top: 40px;
+}
+section img{
+width: 100px;
+}
+nav img{
+	border:none;
+	width: 80px;
+    height: 85px;
+    }
+    footer{
+    	
+    	color: rgb(223, 223, 223);
+    	
+    }
+footer li{
+    	display: inline-block;
+    	padding: 10px;
+    	font-size: 12px;
+    	/*color: rgb(200, 200, 200);*/
+    	margin-bottom: 15px;
+    	margin-top: 15px;
+        color: #ccc;
+
+    }
+ #footer{
+ 	background: rgb(39,39,39);
+ 	padding: 20px;
+ }
+ #footer a {color:rgb(107, 107, 107);}
+ .navegador div{
+ 	border-bottom: solid rgb(200, 200, 200) 2px;
+ }
+ .icono img{
+ 	width: 7%;
+ 	border:none;
+ }
+ .icono{
+ 	padding-top: 10px;
+ 	padding-bottom: 15px;
+ }
+ .navegador b{
+ 	color: rgb(54,54,54);
+ }
+ .lista li{
+
+ 		list-style:none;
+ 		text-decoration: none;
+ }
+#articulos a{
+    font-size: 13px;
+}
+#articulos{
+    	padding-bottom: 15px;
+    }
+#articulos div{
+	margin: 5px;
+    padding-bottom: 10px;
+    }
+.cinco{
+    width: 680px;
+    height: 155px;
+}
+ #menu{
+ 	padding-bottom: 50px;
+    background: rgb(223, 223, 223);
+    border-bottom: solid rgb(190, 200, 190) 3px;
+    }
+#menu img{
+	width: 200px;
+    height: 195px;
+}
+#header  li{
+	display: inline-block;
+   	list-style:none;
+    	
+    }
+#header li a{
+	color:#ccc;
+	list-style:none;
+	text-align: left;	
+	padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    text-decoration: none;
+}
+#header{
+	padding-bottom: 10px; padding-top: 30px;
+}
+a{
+    color: #6699cc;
+    font-family: arial,
+}
